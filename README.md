@@ -31,3 +31,4 @@ ESP32 reads the duration of the Echo signal and calculates distance.
 * Time measured  
 * Distance calculated  
 * Output displayed or processed
+## 🌐 IoT Integration
