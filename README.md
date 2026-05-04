@@ -39,3 +39,8 @@ Ultrasonic sensors can be used in IoT systems for real-time monitoring.
 * Object detection alerts  
 * Tank level monitoring  
 ## 🧩 Design Considerations
+### 🔹 Key Points:
+* Avoid soft or absorbent surfaces  
+* Ensure proper alignment  
+* Reduce environmental noise  
+* Maintain stable voltage supply  
