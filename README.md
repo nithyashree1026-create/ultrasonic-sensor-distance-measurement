@@ -18,3 +18,8 @@ HC-SR04 has four pins:
 * GND → Ground
 ## ⚙️ Signal Operation
 ### 🔹 Steps:
+1. ESP32 sends a 10µs pulse to Trig
+2. Sensor emits ultrasonic burst
+3. Echo pin goes HIGH
+4. Echo stays HIGH until signal returns
+5. Duration of HIGH signal = travel time
