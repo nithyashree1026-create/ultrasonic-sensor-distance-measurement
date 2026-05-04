@@ -53,3 +53,5 @@ Ultrasonic sensors can be used in IoT systems for real-time monitoring.
 * Obstacle avoidance systems  
 * Industrial automation  
 * Smart distance monitoring 
+## 🔮 Future Scope
+Integration with AI systems and sensor fusion can improve accuracy and enable intelligent environment mapping.
