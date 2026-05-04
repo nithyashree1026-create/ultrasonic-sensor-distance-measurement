@@ -25,4 +25,9 @@ HC-SR04 has four pins:
 5. Duration of HIGH signal = travel time
 ## 📡 ESP32 Interfacing
 ESP32 reads the duration of the Echo signal and calculates distance.
-
+### 🔹 Basic Flow:
+* Trigger signal sent  
+* Echo signal received  
+* Time measured  
+* Distance calculated  
+* Output displayed or processed
