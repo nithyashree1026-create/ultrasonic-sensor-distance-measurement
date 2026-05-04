@@ -44,3 +44,4 @@ Ultrasonic sensors can be used in IoT systems for real-time monitoring.
 * Ensure proper alignment  
 * Reduce environmental noise  
 * Maintain stable voltage supply  
+## ⚠️ Limitations
