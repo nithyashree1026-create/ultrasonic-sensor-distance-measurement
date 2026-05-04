@@ -48,3 +48,4 @@ Ultrasonic sensors can be used in IoT systems for real-time monitoring.
 * Affected by temperature and humidity  
 * Cannot detect very small objects reliably  
 * Limited range (typically 2cm–400cm)  
+## 🚀 Advanced Applications
