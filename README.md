@@ -11,3 +11,4 @@ Distance is calculated using:
 Distance = (Speed of Sound × Time) / 2
 The division by 2 accounts for the forward and return journey of the wave.
 ## 🔌 Pin Configuration
+HC-SR04 has four pins:
