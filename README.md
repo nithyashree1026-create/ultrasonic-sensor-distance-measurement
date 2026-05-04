@@ -9,3 +9,4 @@ The time taken for this round trip is used to calculate the distance.
 ## ⏱ Distance Calculation
 Distance is calculated using:
 Distance = (Speed of Sound × Time) / 2
+The division by 2 accounts for the forward and return journey of the wave.
