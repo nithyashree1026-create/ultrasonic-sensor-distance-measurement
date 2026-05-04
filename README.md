@@ -16,3 +16,4 @@ HC-SR04 has four pins:
 * Trig → Trigger input
 * Echo → Output signal
 * GND → Ground
+## ⚙️ Signal Operation
