@@ -13,3 +13,4 @@ The division by 2 accounts for the forward and return journey of the wave.
 ## 🔌 Pin Configuration
 HC-SR04 has four pins:
 * VCC → Power supply (5V)
+* Trig → Trigger input
