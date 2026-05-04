@@ -56,3 +56,4 @@ Ultrasonic sensors can be used in IoT systems for real-time monitoring.
 ## 🔮 Future Scope
 Integration with AI systems and sensor fusion can improve accuracy and enable intelligent environment mapping.
 ## ✨ Conclusion
+The ultrasonic sensor is a reliable and cost-effective solution for distance measurement. When integrated with ESP32, it enables real-time, smart, and scalable IoT applications.
