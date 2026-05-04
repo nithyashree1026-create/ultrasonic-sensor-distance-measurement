@@ -8,3 +8,4 @@ It emits high-frequency sound waves (typically 40 kHz), which travel through air
 The time taken for this round trip is used to calculate the distance.
 ## ⏱ Distance Calculation
 Distance is calculated using:
+Distance = (Speed of Sound × Time) / 2
