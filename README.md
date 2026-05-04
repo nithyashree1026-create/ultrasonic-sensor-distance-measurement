@@ -32,3 +32,9 @@ ESP32 reads the duration of the Echo signal and calculates distance.
 * Distance calculated  
 * Output displayed or processed
 ## 🌐 IoT Integration
+Ultrasonic sensors can be used in IoT systems for real-time monitoring.
+### 🔹 Examples:
+* Water level monitoring  
+* Smart parking systems  
+* Object detection alerts  
+* Tank level monitoring  
