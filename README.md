@@ -24,3 +24,5 @@ HC-SR04 has four pins:
 4. Echo stays HIGH until signal returns
 5. Duration of HIGH signal = travel time
 ## 📡 ESP32 Interfacing
+ESP32 reads the duration of the Echo signal and calculates distance.
+
