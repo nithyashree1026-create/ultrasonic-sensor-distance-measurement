@@ -6,3 +6,4 @@ This repository focuses on the working principle, timing analysis, ESP32 interfa
 The ultrasonic sensor uses the **Time-of-Flight (ToF)** principle.
 It emits high-frequency sound waves (typically 40 kHz), which travel through air, reflect off an object, and return to the sensor.
 The time taken for this round trip is used to calculate the distance.
+## ⏱ Distance Calculation
