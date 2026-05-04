@@ -23,3 +23,4 @@ HC-SR04 has four pins:
 3. Echo pin goes HIGH
 4. Echo stays HIGH until signal returns
 5. Duration of HIGH signal = travel time
+## 📡 ESP32 Interfacing
